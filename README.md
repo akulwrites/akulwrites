@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akul.
 - 👀 I’m currently working in Full-Stack development and Java Software development.
-- 🌱 I’m currently learning more and more daily in the field of frontend development and backend development.
-- 💞️ I’m looking to collaborate on innovative ideas
+- 🌱 I’m currently engaging and learning while working in the frontend and backend development.
+- 💞️ I’m looking to collaborate on innovative ideas.
 - 📫 How to reach me - mail me on akulwritess@gmail.com
 
 <!---
